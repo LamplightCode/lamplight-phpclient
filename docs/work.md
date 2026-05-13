@@ -1,7 +1,7 @@
-# Requesting work records
+# Requesting and updating work records
 
 Work records in Lamplight are events, sessions - things that happen at a time and place that people attend.
-You can use the API to list these on your website.
+You can use the API to list these on your website, and add attendees to existing records.
 
 ## Requesting some records directly
 
